@@ -4,4 +4,4 @@ Nodejs : https://docs.google.com/document/d/115KdLumKcEsRRzLMcyASA16Ay_kDbGUVQmj
 
 MongoDBQueries : https://docs.google.com/document/d/1ZI1BhV070r49vXfgqpMVPJ13HX1BIIK0_cjm956aGGw/edit
 
-Nginix : https://docs.google.com/document/d/1sgIZA16wYeAkF5X9oIEWRsL91HVda5jJdZwi7NvpYSA/edit
+Nginx : https://docs.google.com/document/d/1sgIZA16wYeAkF5X9oIEWRsL91HVda5jJdZwi7NvpYSA/edit
