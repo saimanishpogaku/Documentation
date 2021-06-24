@@ -6,4 +6,4 @@ MongoDBQueries : https://docs.google.com/document/d/1ZI1BhV070r49vXfgqpMVPJ13HX1
 
 Nginx : https://docs.google.com/document/d/1sgIZA16wYeAkF5X9oIEWRsL91HVda5jJdZwi7NvpYSA/edit
 
-MYSQL : https://docs.google.com/document/d/1xxhcSBL-n7v85v-eJldBlbyUc5BGrfHEShyAovuRXeI/edit
+MYSQL doc : https://docs.google.com/document/d/1xxhcSBL-n7v85v-eJldBlbyUc5BGrfHEShyAovuRXeI/edit
