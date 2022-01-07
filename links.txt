@@ -9,3 +9,5 @@ Nginx : https://docs.google.com/document/d/1sgIZA16wYeAkF5X9oIEWRsL91HVda5jJdZwi
 MYSQL doc : https://docs.google.com/document/d/1xxhcSBL-n7v85v-eJldBlbyUc5BGrfHEShyAovuRXeI/edit
 
 Node js Unit testing : https://gitlab.com/pragmaticreviews/node-mocha-chai
+
+graph ql :- https://github.com/iamshaunjp/graphql-playlist
