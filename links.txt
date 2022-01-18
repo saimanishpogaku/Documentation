@@ -11,3 +11,6 @@ MYSQL doc : https://docs.google.com/document/d/1xxhcSBL-n7v85v-eJldBlbyUc5BGrfHE
 Node js Unit testing : https://gitlab.com/pragmaticreviews/node-mocha-chai
 
 graph ql :- https://github.com/iamshaunjp/graphql-playlist
+
+Firebase with node js tutorial series with multiple branches with each tutorial as a branch and this contains all the CRUD operations with Firebase and Node js
+https://github.com/iamshaunjp/Getting-Started-with-Firebase-9
