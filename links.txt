@@ -13,6 +13,7 @@ Node js Unit testing : https://gitlab.com/pragmaticreviews/node-mocha-chai
 graph ql :- https://github.com/iamshaunjp/graphql-playlist
 https://hasura.io/docs/latest/graphql/core/getting-started/docker-simple.html
 https://hasura.io/docs/latest/graphql/core/databases/postgres/queries/index.html
+Video Playlist :- https://www.youtube.com/watch?v=KcjMyICV9Js&list=PLX7eV3JL9sflIX7IOwnP_W36jwLV7fHaS
 
 Firebase with node js tutorial series with multiple branches with each tutorial as a branch and this contains all the CRUD operations with Firebase and Node js
 https://github.com/iamshaunjp/Getting-Started-with-Firebase-9
